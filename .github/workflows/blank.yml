@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
   schedule:
-    - cron:  '0 10, 20 * * *'
+    - cron:  '0 10,20 * * *'
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
