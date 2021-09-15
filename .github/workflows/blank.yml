@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: none
           plugin_languages: yes
+          plugin_languages_ignored: svg, yaml, json
           plugin_languages_details: percentage                          # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
           plugin_languages_limit: 8                                     # Display up to 8 languages
