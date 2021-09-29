@@ -1349,16 +1349,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 51 edited files from 47 commits over last 7 days
+            estimation from 49 edited files from 45 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.538809101178" height="8" fill="#d1dbe0"/>
-                    <rect mask="url(#languages-bar)" x="317.538809101178" y="0" width="95.10279167339036" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="412.64160077456836" y="0" width="47.35839922543166" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.64948019561484" height="8" fill="#d1dbe0"/>
+                    <rect mask="url(#languages-bar)" x="318.64948019561484" y="0" width="95.43543738057454" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="414.08491757618935" y="0" width="45.9150824238106" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1368,7 +1368,7 @@
                       INI
                     </div>
                             <small>
-                                <div>69.03%</div>
+                                <div>69.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1377,7 +1377,7 @@
                       Shell
                     </div>
                             <small>
-                                <div>10.3%</div>
+                                <div>9.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1388,7 +1388,7 @@
                       Vue
                     </div>
                             <small>
-                                <div>20.67%</div>
+                                <div>20.75%</div>
                             </small>
                         </div>
                     </section>
