@@ -22,7 +22,7 @@
 
 - :office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.
 - 🧐 Learning about <strong>VueJS</strong>.</li>
-- :pencil2: Arch Linux / Openbox / Oh My Zsh / Sublime Text.
+- :pencil2: Arch Linux / BSPWM / Oh My Zsh / Neovim.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/matheuuus">Github</a>.
 - 💬 Ask me about <strong>vue, html, css, js and express</strong>.
 - 📙 See more in my <a href="https://m4theus.me">portfolio</a>.
