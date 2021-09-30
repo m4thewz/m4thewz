@@ -1349,16 +1349,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 51 edited files from 45 commits over last 6 days
+            estimation from 67 edited files from 50 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.03695806680884" height="8" fill="#d1dbe0"/>
-                    <rect mask="url(#languages-bar)" x="304.03695806680884" y="0" width="91.0589907604833" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="395.09594882729215" y="0" width="64.90405117270788" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.72757361333026" height="8" fill="#d1dbe0"/>
+                    <rect mask="url(#languages-bar)" x="280.72757361333026" y="0" width="120.06619493266378" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="400.79376854599406" y="0" width="41.448299475005705" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.24206802099974" y="0" width="17.75793197900023" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1368,7 +1369,7 @@
                       INI
                     </div>
                             <small>
-                                <div>66.09%</div>
+                                <div>61.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1377,7 +1378,7 @@
                       Shell
                     </div>
                             <small>
-                                <div>14.11%</div>
+                                <div>9.01%</div>
                             </small>
                         </div>
                     </section>
@@ -1388,7 +1389,16 @@
                       Vue
                     </div>
                             <small>
-                                <div>19.8%</div>
+                                <div>26.1%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
+                    </div>
+                            <small>
+                                <div>3.86%</div>
                             </small>
                         </div>
                     </section>
