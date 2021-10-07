@@ -1430,16 +1430,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 84 edited files from 59 commits over last 7 days
+            estimation from 81 edited files from 53 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.52946264461025" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="407.52946264461025" y="0" width="41.02041061496138" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="448.5498732595716" y="0" width="11.450126740428393" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.7085574572127" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="414.7085574572127" y="0" width="33.56088019559902" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="448.26943765281175" y="0" width="11.730562347188265" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1449,7 +1449,7 @@
                       Lua
                     </div>
                             <small>
-                                <div>88.59%</div>
+                                <div>90.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1458,7 +1458,7 @@
                       CSS
                     </div>
                             <small>
-                                <div>2.49%</div>
+                                <div>2.55%</div>
                             </small>
                         </div>
                     </section>
@@ -1469,7 +1469,7 @@
                       Vue
                     </div>
                             <small>
-                                <div>8.92%</div>
+                                <div>7.3%</div>
                             </small>
                         </div>
                     </section>
