@@ -1437,11 +1437,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.17910532598194" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="253.17910532598194" y="0" width="104.90081282328198" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="358.0799181492639" y="0" width="65.41920081850736" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="423.49911896777127" y="0" width="20.23759449781163" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="443.7367134655829" y="0" width="16.263286534417098" height="8" fill="#d1dbe0"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.22611808831053" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="253.22611808831053" y="0" width="104.87696766494288" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="358.1030857532534" y="0" width="65.40433028357106" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="423.5074160368245" y="0" width="20.232994260385293" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="443.7404102972098" y="0" width="16.259589702790247" height="8" fill="#d1dbe0"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1451,7 +1451,7 @@
                       Vue
                     </div>
                             <small>
-                                <div>55.04%</div>
+                                <div>55.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1469,7 +1469,7 @@
                       INI
                     </div>
                             <small>
-                                <div>3.54%</div>
+                                <div>3.53%</div>
                             </small>
                         </div>
                     </section>
