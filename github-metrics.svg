@@ -1430,26 +1430,26 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 13 edited files from 21 commits over last 5 days
+            estimation from 21 edited files from 29 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.5494590417311" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="261.5494590417311" y="0" width="104.69088098918084" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="366.2403400309119" y="0" width="93.75965996908809" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.9017566688354" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="174.9017566688354" y="0" width="166.70136629798307" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="341.60312296681843" y="0" width="118.39687703318153" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JavaScript
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f7931e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Handlebars
                     </div>
                             <small>
-                                <div>56.86%</div>
+                                <div>38.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1458,18 +1458,18 @@
                       CSS
                     </div>
                             <small>
-                                <div>20.38%</div>
+                                <div>25.74%</div>
                             </small>
                         </div>
                     </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f7931e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Handlebars
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
                     </div>
                             <small>
-                                <div>22.76%</div>
+                                <div>36.24%</div>
                             </small>
                         </div>
                     </section>
