@@ -1430,16 +1430,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 15 edited files from 15 commits over last 7 days
+            estimation from 15 edited files from 11 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.30443159922928" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="232.30443159922928" y="0" width="121.51445086705202" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="353.8188824662813" y="0" width="106.18111753371868" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.06035379812695" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="214.06035379812695" y="0" width="131.25078043704474" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="345.31113423517166" y="0" width="114.68886576482831" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1449,7 +1449,7 @@
                       Handlebars
                     </div>
                             <small>
-                                <div>50.5%</div>
+                                <div>46.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1458,7 +1458,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>23.08%</div>
+                                <div>24.93%</div>
                             </small>
                         </div>
                     </section>
@@ -1469,7 +1469,7 @@
                       CSS
                     </div>
                             <small>
-                                <div>26.42%</div>
+                                <div>28.53%</div>
                             </small>
                         </div>
                     </section>
