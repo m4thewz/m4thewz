@@ -1,5 +1,5 @@
 <img align="left" src="./avatar.png" width="200">
-<img align="right" src="http://github-counter.herokuapp.com/">
+<img align="right" src="https://count.getloli.com/get/@m4theuzs?theme=rule34">
 
 <br/>
 <br/>
@@ -16,15 +16,15 @@
 <h3>:zap: A Few Quick Facts</h2>
 
 <a href="#matheus">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheuuus&show_icons=true&count_private=true&include_all_commits=true&custom_title=Matthew's%20Github%20Stats&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="macropower" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api?username=m4theuzs&show_icons=true&count_private=true&include_all_commits=true&custom_title=Matthew's%20Github%20Stats&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="macropower" align="right" />
 </a>
 
 
 - :office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.
 - 🧐 Learning about <strong>VueJS</strong>.</li>
 - :pencil2: Arch Linux / BSPWM / Oh My Zsh / Neovim.
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/matheuuus">Github</a>.
-- 💬 Ask me about <strong>vue, html, css, js and express</strong>.
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/m4theuzs">Github</a>.
+- 💬 Ask me about <strong>vue, html, css and js</strong>.
 - 📙 See more in my <a href="https://m4theus.me">portfolio</a>.
 
 <br/>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td align="center"  width="96">
-      <a href="https://github.com/matheuuus/dotfiles">
+      <a href="https://github.com/m4theuzs/dotfiles">
         <img src="./logos/arch.png" width="48" height="48" alt="Arch Linux" />
       </a>
       <br>Arch Linux
