@@ -21,7 +21,7 @@
 
 
 - :office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.
-- 🧐 Learning about <strong>VueJS</strong>.</li>
+- 🧐 Learning about <strong>Lua</strong>.</li>
 - :pencil2: Arch Linux / BSPWM / Oh My Zsh / Neovim.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/m4thewz">Github</a>.
 - 💬 Ask me about <strong>vue, html, css and js</strong>.
