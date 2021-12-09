@@ -124,8 +124,4 @@
   </tr>
 </table>
 
-<details>
-  <summary><b>📈 Most used langs</b></summary>
-  <br/>
-  <img src="./github-metrics.svg"/>
-</details
+[![Matthew's github activity graph](https://activity-graph.herokuapp.com/graph?username=m4thewz&color=5a5c68&point=41434f&line=bd93f9&bg_color=282a36&area_color=bd93f9&area=true&hide_border=true&custom_title=Matthew%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
