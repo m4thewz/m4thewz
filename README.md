@@ -111,9 +111,9 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="./logos/sublime.png" width="48" height="48" alt="Sublime" />
+        <img src="./logos/vim.svg" width="48" height="48" alt="Vim" />
       </a>
-      <br>Sublime
+      <br>Vim
     </td>
     <td align="center" width="96">
       <a href="#tech" >
