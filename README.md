@@ -49,13 +49,13 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="https://vuejs.org/images/logo.svg" width="48" height="48" alt="VueJS" />
+        <img src="./logos/vue.png" width="48" height="48" alt="VueJS" />
       </a>
       <br>VueJS
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="./logos/tailwind.png" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br>Tailwind
     </td>
@@ -123,5 +123,3 @@
     </td>
   </tr>
 </table>
-
-[![Matthew's github activity graph](https://activity-graph.herokuapp.com/graph?username=m4thewz&color=5a5c68&point=41434f&line=bd93f9&bg_color=282a36&area_color=bd93f9&area=true&hide_border=true&custom_title=Matthew%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
