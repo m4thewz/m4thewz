@@ -20,12 +20,12 @@
 </a>
 
 
-- :office: I’m currently working on <a href="https://github.com/schoolseat/">Schoolseat</a>.
-- 🧐 Learning about <strong>Lua</strong>.</li>
+- :office: I’m currently studying in <a href="https://www.ifsp.edu.br/">Instituto Federal</a>.
+- 🧐 Learning about <strong>Pygame</strong>.</li>
 - :pencil2: Arch Linux / BSPWM / Oh My Zsh / Neovim.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/m4thewz">Github</a>.
-- 💬 Ask me about <strong>vue, html, css and js</strong>.
-- 📙 See more in my <a href="https://m4theus.me">portfolio</a>.
+- 💬 Ask me about <strong>vue, html, css, js and py</strong>.
+- 📙 See more in my <a href="https://m4thewz.github.io">portfolio</a>.
 
 <br/>
 
@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="48" height="48" alt="Sass" />
+        <img src="https://sass-lang.com/assets/img/logos/logo.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
