@@ -1,5 +1,5 @@
 <img align="left" src="./avatar.png" width="200">
-<img align="right" src="https://count.getloli.com/get/@m4theuzs?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@m4theuzs?theme=asoul">
 
 <br/>
 <br/>
