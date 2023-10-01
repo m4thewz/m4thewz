@@ -16,7 +16,7 @@
 <h3>:zap: A Few Quick Facts</h2>
 
 <a href="#matheus">
-    <img src="https://github-readme-stats.vercel.app/api?username=m4thewz&show_icons=true&count_private=true&include_all_commits=true&custom_title=Matthew's%20Github%20Stats&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="macropower" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api?username=m4thewz&show_icons=true&include_all_commits=true&custom_title=Matthew's%20Github%20Stats&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true" alt="macropower" align="right" />
 </a>
 
 
