@@ -1,16 +1,3 @@
-<img align="left" src="./avatar.png" width="200">
-<img align="right" src="https://count.getloli.com/get/@m4theuzs?theme=asoul">
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <h1 id="matheus">👋 Hi, i'm Matheus</h1>
 
 <h3>:zap: A Few Quick Facts</h2>
