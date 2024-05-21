@@ -8,8 +8,8 @@
 
 
 - :office: I’m currently studying in <a href="https://www.ifsp.edu.br/">Instituto Federal</a>.
-- 🧐 Learning about <strong>Pygame</strong>.</li>
-- :pencil2: Arch Linux / BSPWM / Oh My Zsh / Neovim.
+- 🧐 Learning about <strong>Lua</strong>.</li>
+- :pencil2: Arch Linux / AwesomeWM / Oh My Zsh / Neovim.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/m4thewz">Github</a>.
 - 💬 Ask me about <strong>vue, html, css, js and py</strong>.
 - 📙 See more in my <a href="https://m4thewz.github.io">portfolio</a>.
